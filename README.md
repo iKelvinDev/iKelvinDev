@@ -10,7 +10,9 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKelvinDev&layout=compact&theme=tokyonight"/>
 </div>
 
-### Linguagens que utilizo:
+---
+
+### Linguagens:
 
 <div style="display: inline_block">
   <img align="center" alt="Kelvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,3 +22,11 @@
   <!---<img align="center" alt="Kelvin-A" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">-->
   <img align="center" alt="Kelvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+### Tenho Interesse:
+
+<p>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="kelvin-react" width="30" height="35"/></a>&nbsp;
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="kelvin-sass" width="30" height="35"/></a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="kelvin-tailwindcss" width="30" height="35"/></a>&nbsp;
+</p>
